@@ -1,0 +1,6 @@
+generate_random_regular 100 10
+generate_biased_regular 200 10 50
+generate_treelike 4 11
+generate_chord 300 11
+generate_ladder.py 100 6
+generate_prism_cycle 100 6
